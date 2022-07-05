@@ -10,7 +10,7 @@ Index
 - Delete Input
 
 ```diff
-- This proyect only was tested in PC
+! This project was tested only on pc, so I do not assure that it can be run on Android or IOS.
 ```
 
 ## Simple operation
