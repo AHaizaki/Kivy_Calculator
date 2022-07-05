@@ -9,6 +9,10 @@ Index
 - Composite operation
 - Delete Input
 
+```diff
+- This proyect only was tested in PC
+```
+
 ## Simple operation
 
 ![Working calculator with simple operations](https://cdn.discordapp.com/attachments/805202332795011147/993960198479818894/unknown.png "Working calculator with simple operations")
